@@ -1,0 +1,17 @@
+Mi sitio se llama Aviajar y es la página de una agencia de viajes que ofrece paquetes por Argentina. 
+Elegí este tema porque me gusta viajar y porque Argentina tiene paisajes muy distintos, como las Cataratas del Iguazú, 
+el Glaciar Perito Moreno o la Quebrada de Humahuaca, que se prestan para mostrarlos con imágenes.
+El objetivo del sitio es presentar los servicios de la agencia, mostrar algunos destinos destacados y que el visitante pueda pedir un presupuesto.
+ Está pensado para familias, parejas y grupos de amigos que quieren conocer el país sin tener que organizar todo por su cuenta.
+Usé una paleta de azules y celestes porque recuerdan al cielo, al agua y a los glaciares, que están muy relacionados con los viajes y la naturaleza. Además,
+ el azul transmite confianza y tranquilidad. Para el texto elegí la tipografía Arial porque es simple, se lee bien en cualquier pantalla y viene 
+ instalada en todas las computadoras. El sitio está organizado en secciones: Inicio, Servicios, Destinos, una parte con lo que incluye cada viaje y Contacto.
+  Así el usuario recorre la página de arriba hacia abajo, de lo general a lo concreto.
+   Las imágenes son fotos de paisajes reales de cada destino, para que la persona se imagine el lugar. Busqué un estilo limpio, claro y ordenado.
+Usé HTML para armar la estructura y el contenido de la página, y CSS para los colores, la tipografía, la ubicación de los elementos y la adaptación a distintas pantallas.
+ GitHub me sirvió para guardar el proyecto y subir los cambios de cada entrega, y GitHub Pages para publicar el sitio en internet, de modo que cualquier persona pueda verlo desde un enlace.
+Lo más difícil fue adaptar la página al celular, sobre todo el menú, porque en pantallas chicas los enlaces no entraban en una sola línea.
+ Lo resolví con un botón tipo hamburguesa que muestra y oculta el menú, y con media queries que cambian la disposición de los elementos según el ancho 
+ de la pantalla. También me costó alinear las tarjetas de destinos, y lo solucioné usando Flexbox.
+Con este proyecto aprendí a estructurar una página con etiquetas semánticas,
+ a usar Flexbox para ordenar elementos, a hacer un diseño que se adapte a distintas pantallas y a publicar un sitio con GitHub Pages.
